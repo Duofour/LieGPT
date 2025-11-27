@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LieGpTprojektApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LieGpTprojektApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(LieGpTprojektApplication.class, args);
+    }
 
 }
